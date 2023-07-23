@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwedishAir based in Stockholm, Sweden. Self taught and still learning.
 - 👀 I’m interested in app development.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently coding in Java and Swift.
 - 💞️ I’m looking to collaborate on cross platform app development
 - 📫 You can reach me here.
 
